@@ -1,0 +1,3 @@
+1. Define what qualifies as a word [criteria - can be list or some way to classify ] which is not for public consumption
+
+2. Process the text and look for the words as per #1 if found display an alert else we are good.
